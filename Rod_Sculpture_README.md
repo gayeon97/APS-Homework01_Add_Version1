@@ -23,7 +23,7 @@ starting from (L-1,0,0) down to (1,0,0). At each point i the robot can either:
 axis +y, -y, +z or -z.
 
 
-(Picture demonstrating the bend omitted from the original problem)
+(In the original problem, there was a picture demonstrating the bend. It is omitted here due to inability to upload the picture onto this doc.)
 
 Your task is to determine in what direction the last segment of the rod is pointing to. In the above example, that
 direction is +x . You can assume that the rod is thin enough that it can intercept itself.
