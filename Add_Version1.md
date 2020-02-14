@@ -10,7 +10,7 @@ Write a program that reads two integers from standard input, calculates their su
 
 **Input**
 
-Two integer values -1,000,000,000 <= v1, v2 <= -1,000,000,000 each on its own line.
+Two integer values -1,000,000,000 <= v1, v2 <= 1,000,000,000 each on its own line.
 
 **Output**
 
