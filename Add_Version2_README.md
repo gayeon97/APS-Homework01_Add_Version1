@@ -8,6 +8,8 @@
 ***
 Write a program that reads two integers from standard input, calculates their sum and prints the result to standard
 output.
+
+
 **Input**
 
 Two integer values -2,000,000,000 <= v1, v2 <= 2,000,000,000 each on its own line.
