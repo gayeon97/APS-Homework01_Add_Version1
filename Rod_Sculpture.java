@@ -1,6 +1,6 @@
 //worked and discussed with Yaejin Han
 import java.util.Scanner;
-public class Homework6 {
+public class Rod_Sculpture {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
