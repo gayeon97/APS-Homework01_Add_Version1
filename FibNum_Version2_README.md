@@ -6,7 +6,7 @@
 ###### Student: Gayeon Park
 
 ***
-IIn mathematics Fibonacci numbers are the the sequence of numbers such that each value is the sum of the two
+In mathematics Fibonacci numbers are the the sequence of numbers such that each value is the sum of the two
 preceding values starting with the first two values.
 
 fib1 = 0
@@ -45,5 +45,5 @@ Output:
 2
 ```
 
-
+***
 **The only changes I made to this problem are any grammatical fixes and the description in the heading.**
