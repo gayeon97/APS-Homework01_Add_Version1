@@ -5,7 +5,7 @@
 
 ###### Student: Gayeon Park
 
-
+***
 Write a program that reads two integers from standard input, calculates their sum and prints the result to standard output.
 
 **Input**
