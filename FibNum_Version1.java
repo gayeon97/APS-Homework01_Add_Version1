@@ -1,8 +1,7 @@
 //import java.util.ArrayList;
 import java.util.Scanner;
-public class Question3 {
+public class FibNum_Version1 {
 	
-//	public static ArrayList<Integer> memo;
 	public static int[] memo;
 
 	public static void main(String[] args) {
@@ -27,5 +26,4 @@ public class Question3 {
 		
 		return  fibNum(n-1)+fibNum(n-2);
 	}
-
 }
