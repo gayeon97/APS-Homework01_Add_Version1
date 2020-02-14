@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Question2 {
+public class Add_Version2 {
 
 	public static void main(String[] args) {
 		Scanner myScanner = new Scanner(System.in);
@@ -8,5 +8,4 @@ public class Question2 {
 		
 		System.out.println(num1+num2);
 	}
-
 }
