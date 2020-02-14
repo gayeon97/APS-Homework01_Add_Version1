@@ -27,6 +27,7 @@ public class Car_Value {
 				j += 1;
 			}
 			j += 1;
+			
 			if (i+1 == numOfDep && currIndex < depr.length - 1) {
 				int remIndex = currIndex + 1;
 				while (remIndex < depr.length) {
