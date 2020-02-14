@@ -9,9 +9,11 @@
 Write a program that reads two integers from standard input, calculates their sum and prints the result to standard output.
 
 **Input**
+
 Two integer values -1,000,000,000 <= v1, v2 <= -1,000,000,000 each on its own line.
 
 **Output**
+
 A single value that is the sum of v1 and v2 followed by a newline.
 
 **Example 1:**
@@ -34,6 +36,7 @@ Output:
 0
 ```
 
+***
 
 Here are sample solutions to this problem in C, C++ and Java:
 ```
