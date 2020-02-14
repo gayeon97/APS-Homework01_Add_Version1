@@ -42,7 +42,7 @@ Input:
 4
 
 Output:
-1
+3
 ```
 
 
