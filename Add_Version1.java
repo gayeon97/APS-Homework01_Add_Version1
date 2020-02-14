@@ -7,8 +7,5 @@ public class Add_Version1 {
 		int num2 = scanner.nextInt();
 		
 		System.out.println(num1+num2);
-		
-
 	}
-
 }
