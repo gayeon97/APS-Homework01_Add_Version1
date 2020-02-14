@@ -16,7 +16,6 @@ Each month the buyer's loan payment reduces the amount owed on the car. However,
 depreciates as it gets older. Your task is to write a program that calculates the first time, measured in months, that a
 car buyer owes less money than a car is worth. For this problem, depreciation is specified as a percentage of the
 previous month's value.
-
 For simplicity, we will assume a 0% interest loan.
 
 The car’s initial value is equal to the loan amount plus the down payment.
