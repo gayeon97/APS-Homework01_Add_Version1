@@ -1,8 +1,8 @@
 Add (Version 1)
 ===============
 **Author of the problem: Professor Joanna Klukowska at NYU Courant **
-*Student: Gayeon Park*
-*Algorithmic Problem Solving, Spring 2020*
+Algorithmic Problem Solving, Spring 2020
+Student: Gayeon Park
 
 Write a program that reads two integers from standard input, calculates their sum and prints the result to standard output.
 
