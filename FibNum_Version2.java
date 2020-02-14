@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Question4 {
+public class FibNum_Version2 {
 	
 	public static long[] memo;
 
