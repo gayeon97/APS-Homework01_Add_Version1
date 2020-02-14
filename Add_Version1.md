@@ -80,3 +80,7 @@ public class Main {
 
 **Suggestion 2**: if you are unfamiliar with one of the above languages, study its solution carefully and make sure you
 understand each line of the code.
+
+
+
+**The only changes I made to this problem are any grammatical fixes and the description in the heading.**
