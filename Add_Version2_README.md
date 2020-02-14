@@ -1,5 +1,5 @@
 # Add, 2
-### Author of the problem: Professor Joanna Klukowska at NYU Courant
+###### Author of the problem: Professor Joanna Klukowska at NYU Courant
 
 ###### Algorithmic Problem Solving, Spring 2020
 
