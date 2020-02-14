@@ -6,13 +6,13 @@ Student: Gayeon Park
 
 Write a program that reads two integers from standard input, calculates their sum and prints the result to standard output.
 
-#Input
+**Input**
 Two integer values -1,000,000,000 <= v1, v2 <= -1,000,000,000 each on its own line.
 
-#Output
+**Output**
 A single value that is the sum of v1 and v2 followed by a newline.
 
-#Example 1:
+**Example 1:**
 ```
 Input:
 4
@@ -22,7 +22,7 @@ Output:
 13
 ```
 
-#Example 2:
+**Example 2:**
 ```
 Input:
 -5
@@ -31,6 +31,7 @@ Input:
 Output:
 0
 ```
+
 
 Here are sample solutions to this problem in C, C++ and Java:
 ```
@@ -70,7 +71,7 @@ public class Main {
 }
 ```
 
-#Suggestion 1#: write all three solutions on your own and submit them to the autograder - don’t just copy and paste.
+**Suggestion 1**: write all three solutions on your own and submit them to the autograder - don’t just copy and paste.
 
-#Suggestion 2#: if you are unfamiliar with one of the above languages, study its solution carefully and make sure you
+**Suggestion 2**: if you are unfamiliar with one of the above languages, study its solution carefully and make sure you
 understand each line of the code.
