@@ -35,11 +35,11 @@ The first line specifies the length of the rod, L, as an integer 2 <= L <= 100,0
 instructions for the robot separated by spaces. The j’th instruction (1 <= j <= L-1) corresponds to a bend at point (L-j, 0,
 0) and must be one of the following:
 
--No - do not bend the rod at point (L-j, 0, 0)
--+y - bend the rod at point (L-j,0,0) on the positive Y-axis
---y - bend the rod at point (L-j,0,0) on the negative Y-axis
--+z - bend the rod at point (L-j,0,0) on the positive Z-axis
---z - bend the rod at point (L-j,0,0) on the negative Z-axis
+- No - do not bend the rod at point (L-j, 0, 0)
+- +y - bend the rod at point (L-j,0,0) on the positive Y-axis
+- -y - bend the rod at point (L-j,0,0) on the negative Y-axis
+- +z - bend the rod at point (L-j,0,0) on the positive Z-axis
+- -z - bend the rod at point (L-j,0,0) on the negative Z-axis
 
 **Output**
 
