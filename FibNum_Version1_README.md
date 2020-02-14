@@ -13,7 +13,7 @@ fib1 = 1
 
 fib2 = 1
 
-Yes, there are some definitions that start with a pair: 0, 1, but for the purpose of this problem we will use the above
+(Yes, there are some definitions that start with a pair: 0, 1, but for the purpose of this problem we will use the above
 starting values.)
 
 Your task is to compute the N’th Fibonacci number given the number N.
